@@ -1,0 +1,24 @@
+{
+  "name": "acquire-playwright-js",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test:coverage": "npx run test --coverage",
+    "test:e2e": "npx playwright test --config=playwright.config.cjs",
+    "test:scan": "./bin/test-scan",
+    "test:watch": "./bin/test-watch"
+  },
+  "keywords": [],
+  "author": "Rae Azcueta",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.7"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7"
+  }
+}

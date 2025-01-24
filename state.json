@@ -1,0 +1,45 @@
+{
+  "cookies": [
+    {
+      "name": "wordpress_test_cookie",
+      "value": "WP%20Cookie%20check",
+      "domain": "practicetestautomation.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jetpack_sso_original_request",
+      "value": "http%3A%2F%2Fpracticetestautomation.com%2Fwp-login.php",
+      "domain": "practicetestautomation.com",
+      "path": "/",
+      "expires": 1737696034.717259,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jetpack_sso_nonce",
+      "value": "dzis9z0jqyz4lng6fuhq",
+      "domain": "practicetestautomation.com",
+      "path": "/",
+      "expires": 1737693034.717721,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://practicetestautomation.com",
+      "localStorage": [
+        {
+          "name": "reduxState",
+          "value": "{\"debugMode\":true}"
+        }
+      ]
+    }
+  ]
+}
