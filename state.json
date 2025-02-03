@@ -15,17 +15,17 @@
       "value": "http%3A%2F%2Fpracticetestautomation.com%2Fwp-login.php",
       "domain": "practicetestautomation.com",
       "path": "/",
-      "expires": 1737696034.717259,
+      "expires": 1738167020.36101,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "jetpack_sso_nonce",
-      "value": "dzis9z0jqyz4lng6fuhq",
+      "value": "0vwgyp3iddcvz7xjhey4",
       "domain": "practicetestautomation.com",
       "path": "/",
-      "expires": 1737693034.717721,
+      "expires": 1738164020.361064,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"

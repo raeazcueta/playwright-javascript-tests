@@ -1,4 +1,4 @@
-// fixture.js
+// @ts-check
 import { test as baseTest } from '@playwright/test';
 
 import { LoginPage } from './pom/loginPom.js';
